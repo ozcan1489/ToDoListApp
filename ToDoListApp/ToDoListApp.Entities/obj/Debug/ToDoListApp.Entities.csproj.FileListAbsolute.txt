@@ -1,0 +1,12 @@
+C:\Users\ozcnr\Desktop\InveonDemo\ToDoListApp\ToDoListApp.Entities\bin\Debug\ToDoListApp.Entities.dll.config
+C:\Users\ozcnr\Desktop\InveonDemo\ToDoListApp\ToDoListApp.Entities\bin\Debug\ToDoListApp.Entities.dll
+C:\Users\ozcnr\Desktop\InveonDemo\ToDoListApp\ToDoListApp.Entities\bin\Debug\ToDoListApp.Entities.pdb
+C:\Users\ozcnr\Desktop\InveonDemo\ToDoListApp\ToDoListApp.Entities\bin\Debug\EntityFramework.dll
+C:\Users\ozcnr\Desktop\InveonDemo\ToDoListApp\ToDoListApp.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ozcnr\Desktop\InveonDemo\ToDoListApp\ToDoListApp.Entities\bin\Debug\EntityFramework.xml
+C:\Users\ozcnr\Desktop\InveonDemo\ToDoListApp\ToDoListApp.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ozcnr\Desktop\InveonDemo\ToDoListApp\ToDoListApp.Entities\obj\Debug\ToDoListApp.Entities.csprojAssemblyReference.cache
+C:\Users\ozcnr\Desktop\InveonDemo\ToDoListApp\ToDoListApp.Entities\obj\Debug\ToDoListApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ozcnr\Desktop\InveonDemo\ToDoListApp\ToDoListApp.Entities\obj\Debug\ToDoListApp.Entities.csproj.CopyComplete
+C:\Users\ozcnr\Desktop\InveonDemo\ToDoListApp\ToDoListApp.Entities\obj\Debug\ToDoListApp.Entities.dll
+C:\Users\ozcnr\Desktop\InveonDemo\ToDoListApp\ToDoListApp.Entities\obj\Debug\ToDoListApp.Entities.pdb
